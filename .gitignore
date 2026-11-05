@@ -1,0 +1,14 @@
+/target/
+/data/
+/work/
+/.tools/
+/output/
+/token-ledger
+/exports/
+/numeric-history.json
+.playwright-mcp/
+.DS_Store
+*.sqlite*
+*.jsonl
+*.csv
+*.log
